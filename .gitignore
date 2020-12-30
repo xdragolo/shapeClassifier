@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+venv/
+/archive/
+/circles.npy
+/stars.npy
+/model/
+ __pycache__/
