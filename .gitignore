@@ -5,4 +5,4 @@ venv/
 /circles.npy
 /stars.npy
 /model/
- __pycache__/
+__pycache__/
